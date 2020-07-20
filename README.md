@@ -6,6 +6,12 @@ The setups steps expect following tools installed on the system.
 - Ruby 2.7.1
 - Rails 6.0.3.2
 
+##### 1. Checkout the repository
+
+```bash
+git clone git@github.com:luvcjssy/toggling_system.git
+```
+
 ##### 2. Go to project directory
 
 ```bash
